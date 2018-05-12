@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '28360'
     url: http://www.gutenberg.org/2009/agents/28360
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43565#Thomas-Hardy-s-Dorset
 gutenberg_issued: '2013-08-26'
 gutenberg_type: Text
 identifiers:
